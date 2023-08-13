@@ -9,6 +9,7 @@ These instructions will help you set up and run the Go CRUD API on your local ma
 ### Installation
 
 Clone the repository to your local machine:
+
 `git clone https://github.com/vladsw764/CRUD-GoLang-In-Memory.git`
 
 ### Navigate to the project directory:
@@ -24,6 +25,7 @@ Clone the repository to your local machine:
 ### Run the API server:
 
 `go run main.go`
+
 This will start the API server at http://localhost:8080.
 
 ### Interact with the API:
